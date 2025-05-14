@@ -8,7 +8,7 @@ Dalam dunia bisnis ritel yang kompetitif, pemahaman mendalam terhadap perilaku p
 
 **Task:** Tujuan dari proyek mini portofolio ini adalah untuk melakukan *Exploratory Data Analysis* (EDA) pada dataset transaksi pelanggan untuk memahami karakteristik data, mengidentifikasi dan menangani isu-isu kualitas data, serta mengeksplorasi pola awal yang mungkin relevan. Hasil EDA ini diharapkan dapat memberikan dasar untuk pengembangan strategi bisnis yang lebih terarah.
 
-Mengingat ukuran dataset, file CSV asli dapat diakses melalui tautan berikut: [[link_drive](https://drive.google.com/file/d/1AJZ3O_Rz1iJ8N1ncqqH9VKMX8iwb6rlc/view?usp=sharing)]
+Mengingat ukuran dataset, file CSV asli dapat diakses melalui tautan berikut: [[link](https://www.kaggle.com/datasets/mohammedarfathr/customer-transactions-dataset?resource=download)]
 
 ## **Version Libraries**
 * pandas v2.2.1
